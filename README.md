@@ -1,3 +1,3 @@
-# prime-q
+# prime-q [![Build Status](https://travis-ci.org/henrikfredriksson/prime-q.svg?branch=master)](https://travis-ci.org/henrikfredriksson/prime-q) [![Build Status](https://scrutinizer-ci.com/g/henrikfredriksson/prime-q/badges/build.png?b=master)](https://scrutinizer-ci.com/g/henrikfredriksson/prime-q/build-status/master) [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/henrikfredriksson/prime-q/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/henrikfredriksson/prime-q/?branch=master) [![CircleCI](https://circleci.com/gh/henrikfredriksson/prime-q.svg?style=svg)](https://circleci.com/gh/henrikfredriksson/prime-q)
 
 Test if number is prime with Miller–Rabin primality test
